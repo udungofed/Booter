@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /home/Booter
+cd /root/home/booter
 ./a
 ./menu
