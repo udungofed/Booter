@@ -4,8 +4,7 @@ booter
 
 sudo sh ./install 
 
-or sh ./install 
-
+or sudo -H ./install
 
 type ./menu with sh or just ./menu
 type ./start with sh or just ./start
