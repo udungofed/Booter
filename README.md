@@ -14,4 +14,6 @@ type ./start2 with sh or just ./start2
 
 type ./launch with sh or just ./launch 
 
+usage sh ./admin
+
 any type of these 
